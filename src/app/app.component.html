@@ -1,0 +1,11 @@
+<h1>
+  Pipes and localization
+</h1>
+
+<p>Today's date (no pipe): {{ dateOfToday }}</p>
+<span>Today's date (date pipe): {{ dateOfToday | date }}</span>
+<p>Today's date (yyyy-MM-dd): {{ dateOfToday | date:"yyyy-MM-dd" }}</p>
+<p>Today's date (fulldate) : {{ dateOfToday | date:'fullDate' }}</p>
+<p>Today's date (longDate): {{ dateOfToday | date:'longDate' }}</p>
+
+<p>Amount is {{ amount | currency: 'EUR' }}</p>
