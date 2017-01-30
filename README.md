@@ -1,6 +1,8 @@
 # AngularPipesLocalization
 
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.19-3.
+This project is demo code I used for my blog post ["Angular Pipes and localization"](https://www.thomashuysmans.com/angular-pipes-and-localization/). 
+I used [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.19-3 to generate this project.
+
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
